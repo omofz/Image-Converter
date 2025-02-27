@@ -10,7 +10,7 @@ git clone https://github.com/omofz/Image-Converter.git
 ```
 
 # Pull Origin
-``sh
+```sh
 git pull --rebase origin main
 ```
 
